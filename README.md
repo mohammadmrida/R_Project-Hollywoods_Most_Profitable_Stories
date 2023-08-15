@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <img src="Hist_Scatter_plot_Hollywood_Movie.png" width="100%" alt="accessibility text">
+  <img src="Scatter_plot_Hollywood_Movie.png" width="100%" alt="accessibility text">
 </p>
 
 <p align="center">
