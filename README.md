@@ -2,7 +2,7 @@
 ## Project Name: Hollywoods Most Profitable Stories
 
 
-### Scatter Plot to Compare Average Profitability Per Gengre
+### Scatter Plot to Compare Average Rotten Tomato Rating Per Leading Studio
 <p align="center">
   <img src="Scatter_plot_Hollywood_Movie.png" width="100%" alt="accessibility text">
 </p>
