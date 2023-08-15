@@ -25,11 +25,11 @@
   <img src="Dencity_plot_Hollywood_Movie.png" width="100%" alt="accessibility text">
 </p>
 
-### Number of Film Per Genre on Bar Plot
+### Number of Film Per Genre on Histogram Plot
 <p align="center">
   <img src="Histogram_plot_Hollywood_Movie.png" width="100%" alt="accessibility text">
 </p>
-### Number of Film Per Year on Bar Plot
+### Number of Film Per Studio on Bar Plot
 <p align="center">
   <img src="Bar2_plot_Hollywood_Movie.png" width="100%" alt="accessibility text">
 </p>
