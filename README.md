@@ -7,7 +7,7 @@
   <img src="Scatter_plot_Hollywood_Movie.png" width="100%" alt="accessibility text">
 </p>
 
-### Histogram Plot to Compare Average Profitability Per Gengre
+### Rotten Tomato Ratings on Histogram Plot
 <p align="center">
   <img src="Hist_Rotten_plot_Hollywood_Movie.png" width="100%" title="hover text">
 </p>
