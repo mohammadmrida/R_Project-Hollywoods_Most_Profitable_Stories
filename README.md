@@ -11,7 +11,7 @@
 <p align="center">
   <img src="Hist_Rotten_plot_Hollywood_Movie.png" width="100%" title="hover text">
 </p>
-
+### Audience Score on Histogram Plot
 <p align="center">
   <img src="Hist_Audience_plot_Hollywood_Movie.png" width="100%" alt="accessibility text">
 </p>
