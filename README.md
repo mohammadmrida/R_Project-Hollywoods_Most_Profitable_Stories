@@ -1,5 +1,5 @@
-# Data Analysis Project by R Programming
-# Hollywoods_Most_Profitable_Stories
+# Data Analysis Using R
+## Project Name: Hollywoods Most Profitable Stories
 
 <p align="center">
   <img src="Hist_Rotten_plot_Hollywood_Movie.png" width="100%" title="hover text">
