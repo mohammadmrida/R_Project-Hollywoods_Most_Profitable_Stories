@@ -16,7 +16,7 @@
   <img src="Hist_Audience_plot_Hollywood_Movie.png" width="100%" alt="accessibility text">
 </p>
 
-
+### Number of Film Per Year on Bar Plot
 <p align="center">
   <img src="Bar_plot_Hollywood_Movie.png" width="100%" alt="accessibility text">
 </p>
