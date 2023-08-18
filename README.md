@@ -16,37 +16,37 @@
 ### :mag_right: EDA - Exploratory Data Analysis:
 
 
-### Scatter Plot to Compare Average Rotten Tomato Rating Per Leading Studio
+#### :high_brightness: Scatter Plot to Compare Average Rotten Tomato Rating Per Leading Studio
 <p align="center">
   <img src="Scatter_plot_Hollywood_Movie.png" width="100%" alt="accessibility text">
 </p>
 
-### Rotten Tomato Ratings on Histogram Plot
+#### :high_brightness: Rotten Tomato Ratings on Histogram Plot
 <p align="center">
   <img src="Hist_Rotten_plot_Hollywood_Movie.png" width="100%" title="hover text">
 </p>
 
-### Audience Score on Histogram Plot
+#### :high_brightness: Audience Score on Histogram Plot
 <p align="center">
   <img src="Hist_Audience_plot_Hollywood_Movie.png" width="100%" alt="accessibility text">
 </p>
 
-### Number of Film Per Year on Bar Plot
+#### :high_brightness: Number of Film Per Year on Bar Plot
 <p align="center">
   <img src="Bar_plot_Hollywood_Movie.png" width="100%" alt="accessibility text">
 </p>
 
-### Audience Score Density
+#### :high_brightness: Audience Score Density
 <p align="center">
   <img src="Dencity_plot_Hollywood_Movie.png" width="100%" alt="accessibility text">
 </p>
 
-### Number of Film Per Genre on Histogram Plot
+#### :high_brightness: Number of Film Per Genre on Histogram Plot
 <p align="center">
   <img src="Histogram_plot_Hollywood_Movie.png" width="100%" alt="accessibility text">
 </p>
 
-### Number of Film Per Studio on Bar Plot
+#### :high_brightness: Number of Film Per Studio on Bar Plot
 <p align="center">
   <img src="Bar2_plot_Hollywood_Movie.png" width="100%" alt="accessibility text">
 </p>
