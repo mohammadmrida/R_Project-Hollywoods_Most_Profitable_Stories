@@ -18,35 +18,35 @@
 
 #### :high_brightness: Scatter Plot to Compare Average Rotten Tomato Rating Per Leading Studio
 <p align="center">
-  <img src="Scatter_plot_Hollywood_Movie.png" width="100%" alt="accessibility text">
+  <img src="Scatter_plot_Hollywood_Movie.png" width="70%" alt="accessibility text">
 </p>
 
 #### :high_brightness: Rotten Tomato Ratings on Histogram Plot
 <p align="center">
-  <img src="Hist_Rotten_plot_Hollywood_Movie.png" width="100%" title="hover text">
+  <img src="Hist_Rotten_plot_Hollywood_Movie.png" width="70%" title="hover text">
 </p>
 
 #### :high_brightness: Audience Score on Histogram Plot
 <p align="center">
-  <img src="Hist_Audience_plot_Hollywood_Movie.png" width="100%" alt="accessibility text">
+  <img src="Hist_Audience_plot_Hollywood_Movie.png" width="70%" alt="accessibility text">
 </p>
 
 #### :high_brightness: Number of Film Per Year on Bar Plot
 <p align="center">
-  <img src="Bar_plot_Hollywood_Movie.png" width="100%" alt="accessibility text">
+  <img src="Bar_plot_Hollywood_Movie.png" width="70%" alt="accessibility text">
 </p>
 
 #### :high_brightness: Audience Score Density
 <p align="center">
-  <img src="Dencity_plot_Hollywood_Movie.png" width="100%" alt="accessibility text">
+  <img src="Dencity_plot_Hollywood_Movie.png" width="70%" alt="accessibility text">
 </p>
 
 #### :high_brightness: Number of Film Per Genre on Histogram Plot
 <p align="center">
-  <img src="Histogram_plot_Hollywood_Movie.png" width="100%" alt="accessibility text">
+  <img src="Histogram_plot_Hollywood_Movie.png" width="70%" alt="accessibility text">
 </p>
 
 #### :high_brightness: Number of Film Per Studio on Bar Plot
 <p align="center">
-  <img src="Bar2_plot_Hollywood_Movie.png" width="100%" alt="accessibility text">
+  <img src="Bar2_plot_Hollywood_Movie.png" width="70%" alt="accessibility text">
 </p>
