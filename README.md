@@ -2,6 +2,20 @@
 ## Project Name: Hollywoods Most Profitable Stories
 
 
+### Summary:
+#### :clipboard: <strong>Sample Data:</strong> Movies, between 2007 to 2011
+#### :clipboard: <strong>Sample Size:</strong> 1337 rows of data
+#### :clipboard: <strong>Observation (Column):</strong> Data set contained 7 obeservations - Age, Sex, BMI, Children, Smoker, Region, and Charges
+#### :bar_chart: <strong>ETL and Visualisation Tools:</strong> Excel, R-programming, ggplot2
+
+<br>
+
+<br>
+  
+(---)
+### :mag_right: EDA - Exploratory Data Analysis:
+
+
 ### Scatter Plot to Compare Average Rotten Tomato Rating Per Leading Studio
 <p align="center">
   <img src="Scatter_plot_Hollywood_Movie.png" width="100%" alt="accessibility text">
