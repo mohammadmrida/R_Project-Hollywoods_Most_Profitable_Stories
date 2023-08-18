@@ -13,7 +13,7 @@
 <br>
   
 (---)
-### :mag_right: EDA - Exploratory Data Analysis:
+### :mag_right: Key Findings:
 
 
 #### :high_brightness: Scatter Plot to Compare Average Rotten Tomato Rating Per Leading Studio
