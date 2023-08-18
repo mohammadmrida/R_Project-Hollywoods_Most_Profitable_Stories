@@ -6,7 +6,7 @@
 #### :clipboard: <strong>Sample Data:</strong> Movies, between 2007 to 2011
 #### :clipboard: <strong>Sample Size:</strong> 1337 rows of data
 #### :clipboard: <strong>Observation (Column):</strong> Data set contained 7 obeservations - Age, Sex, BMI, Children, Smoker, Region, and Charges
-#### :bar_chart: <strong>ETL and Visualisation Tools:</strong> Excel, R-programming, ggplot2
+#### :bar_chart: <strong>ETL and Visualisation Tools:</strong> Excel, R-programming, tidyverse, ggplot2
 
 <br>
 
